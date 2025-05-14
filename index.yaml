@@ -5,7 +5,7 @@ entries:
     appVersion: ce-latest-ee-2.27.6
     created: "2025-05-09T01:46:03.932713597Z"
     description: Helm chart used to deploy the Portainer for Kubernetes
-    digest: b7505093cc8598d03cf28cd5439e23939e1b48480746bdd17dd70f4428d60761
+    digest: b7f3b709e9772331825ee2200b77b06f8de7a9503ac9ff18338e8174d76da65d
     home: https://www.portainer.io
     icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
